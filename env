@@ -1,5 +1,5 @@
 # IN application vars
-APP_URL=http://in.localhost:8003
+APP_URL=http://youriporhost:8050
 APP_KEY=<insert your generated key in here>
 APP_DEBUG=true
 REQUIRE_HTTPS=false
