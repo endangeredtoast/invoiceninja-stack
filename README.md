@@ -44,3 +44,8 @@ If you run into SQL errors during setup, try running the following command:
 ```
 docker-compose exec app php artisan migrate
 ```
+
+If you have missing currency/localization options, browse to the following URL and it should fix it.
+```
+https://your.invoiceninja.url/update?secret=secret
+```
